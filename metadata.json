@@ -1,0 +1,7 @@
+{
+  "name": "GodLy - Spiritual Wellness",
+  "description": "A mental health and spiritual wellness app that helps users find peace and get rid of stress through connection with the divine, featuring meditation, prayers, breathing exercises, and AI-driven spiritual guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
